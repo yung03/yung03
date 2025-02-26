@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Hi, this is AkiX!
 
-<!--
-**yung03/yung03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Web3 Explorer <br>
+### 🔭 Web3 front-end developer <br>
+### 🌱 Full-stack Developer Apprentice <br>
 
-Here are some ideas to get you started:
+# 🤝 Open collaboration
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔑 Looking for opportunities to contribute to Web3 open source projects
+
+### 🖥 Curious about the following areas:
+
+- 🧩 ZK-Rollup application scenarios
+  - Zero-knowledge proof technology
+  - Layer 2 expansion solutions
+- 🛡️ DeFi security model
+  - Smart contract auditing
+  - Decentralized insurance
+- 🎮 Blockchain gamification design
+  - NFT asset design
+  - Play-to-Earn model
+
+## 📫 Invitation for cooperation: qxysean@gmail.com
+
