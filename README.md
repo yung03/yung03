@@ -1,7 +1,7 @@
 # 👋 Hi, this is AkiX!
 
 ### 🚀 Web3 Explorer <br>
-### 🔭 Web3 front-end developer <br>
+### 🔭 Web3 Frontend Developer <br>
 ### 🌱 Full-stack Developer Apprentice <br>
 
 # 🤝 Open collaboration
