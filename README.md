@@ -20,5 +20,3 @@
   - NFT asset design
   - Play-to-Earn model
 
-## 📫 Invitation for cooperation: qxysean@gmail.com
-
